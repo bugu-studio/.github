@@ -6,7 +6,7 @@
 
 ### 哈喽 👋
 
-[English](./README.md)
+[English](https://github.com/bugu-studio/.github/blob/main/profile/README.md)
 
 我们正在尝试：
 
