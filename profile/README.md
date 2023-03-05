@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-[中文](./README_ZH.md)
+[中文](https://github.com/bugu-studio/.github/blob/main/profile/README_ZH.md)
 
 We are trying to explore:
 
